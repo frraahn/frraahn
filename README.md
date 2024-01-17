@@ -7,16 +7,18 @@
 - ⚡ I live in Puchong, Selangor
 
 # Education
-### (2011-2016)   
+### (2011-2016) Primary School   
 📚 SK Taman Desaminium.
-### (2017-2019)   
+### (2017-2019) Secondary School   
 📚 Taman Desaminium.
-### (2020-2022)    
+### (2020-2022) Secondary School     
 📚 SM Teknik Kuala Lumpur.
-### (2022-2023)    
+SPM : 2A+ 6A 2A-
+### (2022-2023) Foundation    
 📚 Foundation in Engineering at UiTM Dengkil, Selangor.
-### (2023-Present) 
-📚 Bachelor Degree in Computer Science (Data Engineering) at UTM Skudai, Johor.
+CGPA : 4.00
+### (2023-Present) Degree
+📚 Bachelor Degree in Computer Science (Data Engineering) with honours at UTM Skudai, Johor.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
