@@ -8,15 +8,15 @@
 
 # Education
 ### (2011-2016)   
-SK Taman Desaminium.
+📚 SK Taman Desaminium.
 ### (2017-2019)   
-SMK Taman Desaminium.
+📚 Taman Desaminium.
 ### (2020-2022)    
-SM Teknik Kuala Lumpur.
+📚 SM Teknik Kuala Lumpur.
 ### (2022-2023)    
-Foundation in Engineering at UiTM Dengkil, Selangor.
+📚 Foundation in Engineering at UiTM Dengkil, Selangor.
 ### (2023-Present) 
-Bachelor Degree in Computer Science (Data Engineering) at UTM Skudai, Johor.
+📚 Bachelor Degree in Computer Science (Data Engineering) at UTM Skudai, Johor.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
