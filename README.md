@@ -10,7 +10,7 @@ I am a student with a desire to keep learning!
   
 ## Education
 #### (2020-2022) Secondary School     
-📚 SM Teknik Kuala Lumpur.
+📚 Technical Institute of Kuala Lumpur.
 SPM : 2A+ 6A 2A-
 #### (2022-2023) Foundation    
 📚 Foundation in Engineering at UiTM Dengkil, Selangor.
