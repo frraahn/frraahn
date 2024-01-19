@@ -1,11 +1,16 @@
-### Hi there 👋
-<h3 align="center">A student studying at UTM in Computer Science (Data Engineering) course.</h3>
+
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is farra
+=============================================================================================================================
+a student with a desire to keep learning
 
 - 🌱 I’m currently learning Science Computer Course in Data Engineering at UTM 
 - 📫 How to reach me: farranurzahin@graduate.utm.my 
 - 😄 Pronouns: Farra
 - ⚡ I live in Puchong, Selangor
-
+  
+# My Portfolios for SEmester 1
+- [Technology and Information System](http://github.com/frraahn/Technology-and-Information-System)
+  
 # Education
 ### (2011-2016) Primary School   
 📚 SK Taman Desaminium.
@@ -21,7 +26,6 @@ CGPA : 4.00
 📚 Bachelor Degree in Computer Science (Data Engineering) with honours at UTM Skudai, Johor.
 
 # 🏆 Achievements
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
