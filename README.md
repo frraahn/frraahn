@@ -8,12 +8,6 @@ I am a student with a desire to keep learning!
 - 😄 Pronouns: Farra
 - ⚡ I live in Puchong, Selangor
   
-## My Portfolios for Semester 1
-- [Technology and Information System](http://github.com/frraahn/Technology-and-Information-System)
-- [Programming Technique I](https://github.com/frraahn/Programming-Technique-I)
-- [Discrete Structure](https://github.com/frraahn/Discrete-Structure)
-- [Digital Logic](https://github.com/frraahn/Digital-Logic)
-  
 ## Education
 #### (2020-2022) Secondary School     
 📚 SM Teknik Kuala Lumpur.
@@ -29,7 +23,14 @@ CGPA : 4.00
 - Majlis Anugerah Kecemerlangan SPM 2021
 - Majlis Anugerah Kecemarlangan Akademik (MAKA) 2022
 - MUET Band 4.00
-
+- 
+## My Portfolios for Semester 1
+Tap one of these to see my works:
+- [Technology and Information System](http://github.com/frraahn/Technology-and-Information-System)
+- [Programming Technique I](https://github.com/frraahn/Programming-Technique-I)
+- [Discrete Structure](https://github.com/frraahn/Discrete-Structure)
+- [Digital Logic](https://github.com/frraahn/Digital-Logic)
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/farra nurzahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farra nurzahin" height="30" width="40" /></a><a href="https://www.youtube.com/c/https://www.youtube.com/@farranurzahinbintizaharilanuar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@farranurzahinbintizaharilanuar" height="30" width="40" /></a>
