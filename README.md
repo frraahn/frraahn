@@ -1,7 +1,7 @@
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is farra
 =============================================================================================================================
-a student with a desire to keep learning
+I am a student with a desire to keep learning!
 
 - 🌱 I’m currently learning Science Computer Course in Data Engineering at UTM 
 - 📫 How to reach me: farranurzahin@graduate.utm.my 
