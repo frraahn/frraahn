@@ -10,6 +10,9 @@ a student with a desire to keep learning
   
 ## My Portfolios for Semester 1
 - [Technology and Information System](http://github.com/frraahn/Technology-and-Information-System)
+- [Programming Technique I](https://github.com/frraahn/Programming-Technique-I)
+- [Discrete Structure](https://github.com/frraahn/Discrete-Structure)
+- [Digital Logic](https://github.com/frraahn/Digital-Logic)
   
 ## Education
 #### (2020-2022) Secondary School     
