@@ -23,7 +23,7 @@ CGPA : 4.00
 - Majlis Anugerah Kecemerlangan SPM 2021
 - Majlis Anugerah Kecemarlangan Akademik (MAKA) 2022
 - MUET Band 4.00
-- 
+
 ## My Portfolios for Semester 1
 Tap one of these to see my works:
 - [Technology and Information System](http://github.com/frraahn/Technology-and-Information-System)
