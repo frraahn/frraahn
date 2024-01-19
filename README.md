@@ -8,24 +8,24 @@ a student with a desire to keep learning
 - 😄 Pronouns: Farra
 - ⚡ I live in Puchong, Selangor
   
-# My Portfolios for SEmester 1
+## My Portfolios for Semester 1
 - [Technology and Information System](http://github.com/frraahn/Technology-and-Information-System)
   
-# Education
-### (2011-2016) Primary School   
-📚 SK Taman Desaminium.
-### (2017-2019) Secondary School   
-📚 Taman Desaminium.
-### (2020-2022) Secondary School     
+## Education
+#### (2020-2022) Secondary School     
 📚 SM Teknik Kuala Lumpur.
 SPM : 2A+ 6A 2A-
-### (2022-2023) Foundation    
+#### (2022-2023) Foundation    
 📚 Foundation in Engineering at UiTM Dengkil, Selangor.
 CGPA : 4.00
-### (2023-Present) Degree
+#### (2023-Present) Degree
 📚 Bachelor Degree in Computer Science (Data Engineering) with honours at UTM Skudai, Johor.
 
 # 🏆 Achievements
+- Contestant of Sports IQ Challenge Peringkat Kebangsaan 2021
+- Majlis Anugerah Kecemerlangan SPM 2021
+- Majlis Anugerah Kecemarlangan Akademik (MAKA) 2022
+- MUET Band 4.00
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
