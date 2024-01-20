@@ -30,10 +30,10 @@ Tap one of these to see my works:
 - [Programming Technique I](https://github.com/frraahn/Programming-Technique-I)
 - [Discrete Structure](https://github.com/frraahn/Discrete-Structure)
 - [Digital Logic](https://github.com/frraahn/Digital-Logic)
-  
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/farra-nurzahin-zaharil-anuar-44107329a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/farra-nurzahin-zaharil-anuar-44107329a/" height="30" width="40" /></a><a href="https://www.youtube.com/c/https://www.youtube.com/@farranurzahinbintizaharilanuar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@farranurzahinbintizaharilanuar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/farra-nurzahin-zaharil-anuar-44107329a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/farra-nurzahin-zaharil-anuar-44107329a/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
