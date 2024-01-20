@@ -7,7 +7,8 @@ I am a student with a desire to keep learning!
 - 📫 How to reach me: farranurzahin@graduate.utm.my 
 - 😄 Pronouns: Farra
 - ⚡ I live in Puchong, Selangor
-- 🦋 know more about [me](https://github.com/frraahn/frraahn/blob/main/Resume.jpg)
+- 🦋 Know more about [me](https://github.com/frraahn/frraahn/blob/main/Resume.jpg)
+- 🕸️ Visit my [website](https://frraahn.github.io/)
 
 ## My Portfolios for Semester 1
 Tap one of these to see my works:
