@@ -1,10 +1,10 @@
 
 
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is farra
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Farra
 =============================================================================================================================
 ### 🎓 Computer Science (Data Engineering) Student
-I am a passionate third year CS student specializing in **Data Engineering**. I am passionate on designing scalable data pipelines and turning raw, messy data into structured, actionable insights.
+I am a third year CS student specializing in **Data Engineering**. I am passionate on designing scalable data pipelines and turning raw, messy data into structured, actionable insights.
 
 - 📍 Based in Puchong, Selangor
 - 📫 How to reach me: farranurzahin@graduate.utm.my
