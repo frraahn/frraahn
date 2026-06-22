@@ -17,6 +17,7 @@ I am a third year CS student specializing in **Data Engineering**. I am passiona
 #### Universiti Teknologi Malaysia (UTM)
 - Bachelor of Computer Science (Data Engineering)
 - 2023-current
+- Related Coursework: Data Analytics Programming, Database Programming, System Development Technology, Data Mining, Software Engineering, Application Development, Business Intelligence
 
 #### Universiti Teknologi Mara (UiTM)
 - Foundation in Engineering
