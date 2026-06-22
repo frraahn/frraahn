@@ -29,7 +29,7 @@ I am a third year CS student specializing in **Data Engineering**. I am passiona
 
 ---
 
-### 🚀 Featured Engineering & Analytics Projects
+### 🚀 Featured Projects
 
 #### 🔹 Recoverable Assets & Inventory Risk Management (IRM) Pipeline
 * **Description:** Extracted messy manufacturing files and moved them through a multi-layer Medallion architecture on Microsoft Azure. It transformed raw inventory records into an automated Power BI dashboard that flags real-time stockout and material expiration risks.
@@ -71,6 +71,17 @@ I am a third year CS student specializing in **Data Engineering**. I am passiona
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+### 🤝 Leadership & Activities
+
+| Organization / Event | Role | Period |
+| :--- | :--- | :--- |
+| **CODE '26** | Activity Unit | 2026 |
+| **Jarvis x Fiestra '26** | Volunteer | 2026 |
+| **Go Green Go Clean** | Technical Unit | 2025 |
+| **PROSIS UTM** | Technical Unit | 2025 |
+| **UTM Games** | Volunteer | 2023 – 2025 |
+
+---
 
 ## 📊 GitHub Stats
 
@@ -78,13 +89,6 @@ Alignment matters! Here’s a quick glance at my coding activity:
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=frraahn&show_icons=true&theme=gotham)
 ![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frraahn&layout=compact&theme=gotham)
-
-## My Portfolios for Semester 1
-Tap one of these to see my works:
-- [Technology and Information System](http://github.com/frraahn/Technology-and-Information-System)
-- [Programming Technique I](https://github.com/frraahn/Programming-Technique-I)
-- [Discrete Structure](https://github.com/frraahn/Discrete-Structure)
-- [Digital Logic](https://github.com/frraahn/Digital-Logic)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
