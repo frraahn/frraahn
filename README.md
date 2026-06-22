@@ -29,12 +29,32 @@ I am a third year CS student specializing in **Data Engineering**. I am passiona
 
 ---
 
+### 🚀 Featured Engineering & Analytics Projects
+
+#### 🔹 Recoverable Assets & Inventory Risk Management (IRM) Pipeline
+* **Description:** Extracted messy manufacturing files and moved them through a multi-layer Medallion architecture on Microsoft Azure. It transformed raw inventory records into an automated Power BI dashboard that flags real-time stockout and material expiration risks.
+
+#### 🔹 Brazilian Government Education Census ETL Pipeline
+* **Description:** Ingested 2.2 GB of unstructured public census CSV data and processed it efficiently using Apache Spark (PySpark). It transformed the dataset into compressed Parquet files and loaded them into a Star Schema relational database.
+
+#### 🔹 IKM TVET MARA Automated Student Attendance System
+* **Description:** Gathered raw student information and built a localized desktop automation tool to handle day-to-day tracking. It cleaned up manual record-keeping bottlenecks and generated structured tables for easier instructor monitoring.
+
+#### 🔹 Vehicle Emissions & Fuel Efficiency Analysis
+* **Description:** Ingested automotive datasets to perform exploratory data analysis using Python and the Pandas library. It cleaned the records and generated interactive charts using Matplotlib and Seaborn for visualization.
+
+---
+
 ## 🛠️ Tech Stack & Tooling
 
 ### 🧰 Tools & Frameworks
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=yellow)
 ![Microsoft Azure](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -42,6 +62,7 @@ I am a third year CS student specializing in **Data Engineering**. I am passiona
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-003366?style=for-the-badge)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
