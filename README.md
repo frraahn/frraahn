@@ -30,8 +30,8 @@ I am a passionate CS student specializing in **Data Engineering**. I am passiona
 
 Alignment matters! Here’s a quick glance at my coding activity:
 
-[![](#)](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=gotham)
-[![](#)](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=gotham)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=frraahn&show_icons=true&theme=gotham)
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frraahn&layout=compact&theme=gotham)
 
 ## My Portfolios for Semester 1
 Tap one of these to see my works:
