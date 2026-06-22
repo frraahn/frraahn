@@ -25,6 +25,7 @@ I am a third year CS student specializing in **Data Engineering**. I am passiona
 
 #### Technical Institute of Kuala Lumpur (TIKL)
 - Civil Engineering
+- 2020-2021
 - SPM: 10A
 
 ---
