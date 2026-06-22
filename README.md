@@ -21,12 +21,10 @@ I am a third year CS student specializing in **Data Engineering**. I am passiona
 #### Universiti Teknologi Mara (UiTM)
 - Foundation in Engineering
 - 2022-2023
-- CGPA: 4.00
 
 #### Technical Institute of Kuala Lumpur (TIKL)
 - Civil Engineering
 - 2020-2021
-- SPM: 10A
 
 ---
 
