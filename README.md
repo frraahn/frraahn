@@ -18,7 +18,7 @@ I am a third year CS student specializing in **Data Engineering**. I am passiona
 - Bachelor of Computer Science (Data Engineering)
 - 2023-current
 
-#### University Teknologi Mara (UiTM)
+#### Universiti Teknologi Mara (UiTM)
 - Foundation in Engineering
 - 2022-2023
 - CGPA: 4.00
