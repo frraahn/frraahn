@@ -22,7 +22,7 @@ I am a third year CS student specializing in **Data Engineering**. I am passiona
 - Foundation in Engineering
 - 2022-2023
 
-#### Technical Institute of Kuala Lumpur (TIKL)
+#### Sekolah Menengah Teknik Kuala Lumpur (SMTKL)
 - Civil Engineering
 - 2020-2021
 
